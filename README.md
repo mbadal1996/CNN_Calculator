@@ -1,5 +1,5 @@
 # cnn_calculator
-cnn_calculator aids in correctly constructing a CNN architecture for a given input image size.
+The python code cnn_calculator aids in correctly constructing a CNN architecture for a given input image size.
 
 ======================================================================
 
@@ -7,7 +7,7 @@ cnn_calculator v1.0
 
 Comments:
 
-The purpose of this small code is to allow the user to determine some
+The purpose of this python code is to allow the user to determine some
 parameters required in a CNN for a given input image size. These
 parameters change depending on the input image size and the architecture
 chosen. This sample CNN can be changed/enlarged but the basic idea remains.
