@@ -5,11 +5,11 @@ Created on Tue Jun 29 11:41:39 2021
 @author: mbadal1996
 """
 # ======================================================================
-# CNN Calculator v1.0
+# cnn_calculator v1.0
 #
 # Comments:
 #
-# The purpose of this small code is to allow the user to determine some
+# The purpose of this python code is to allow the user to determine some
 # parameters required in a CNN for a given input image size. These
 # parameters change depending on the input image size and the architecture
 # chosen. This sample CNN can be changed/enlarged but the basic idea remains.
