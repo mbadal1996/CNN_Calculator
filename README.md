@@ -1,9 +1,9 @@
-# CNN_Calculator
-CNN_Calculator aids in correctly constructing a CNN architecture for a given input image size.
+# cnn_calculator
+cnn_calculator aids in correctly constructing a CNN architecture for a given input image size.
 
 ======================================================================
 
-CNN Calculator v1.0
+cnn_calculator v1.0
 
 Comments:
 
